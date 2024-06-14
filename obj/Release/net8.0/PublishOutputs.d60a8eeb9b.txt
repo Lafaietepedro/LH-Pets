@@ -1,0 +1,13 @@
+G:\FULL_STACK_SENAI\LH-Pets\bin\Release\net8.0\publish\LH-Pets.exe
+G:\FULL_STACK_SENAI\LH-Pets\bin\Release\net8.0\publish\appsettings.Development.json
+G:\FULL_STACK_SENAI\LH-Pets\bin\Release\net8.0\publish\appsettings.json
+G:\FULL_STACK_SENAI\LH-Pets\bin\Release\net8.0\publish\LH-Pets.dll
+G:\FULL_STACK_SENAI\LH-Pets\bin\Release\net8.0\publish\LH-Pets.deps.json
+G:\FULL_STACK_SENAI\LH-Pets\bin\Release\net8.0\publish\LH-Pets.runtimeconfig.json
+G:\FULL_STACK_SENAI\LH-Pets\bin\Release\net8.0\publish\LH-Pets.pdb
+G:\FULL_STACK_SENAI\LH-Pets\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+G:\FULL_STACK_SENAI\LH-Pets\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+G:\FULL_STACK_SENAI\LH-Pets\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+G:\FULL_STACK_SENAI\LH-Pets\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+G:\FULL_STACK_SENAI\LH-Pets\bin\Release\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\FULL_STACK_SENAI\LH-Pets\bin\Release\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
